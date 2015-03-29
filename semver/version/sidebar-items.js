@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Version","Represents a version number conforming to the semantic versioning scheme."]],"enum":[["Identifier","An identifier in the pre-release or build metadata."],["ParseError","A `ParseError` is returned as the `Err` side of a `Result` when a version is attempted to be parsed."]]});
